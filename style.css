@@ -1,0 +1,31 @@
+
+body{
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+
+.amarillo{
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color: yellow;
+    width: 600px;
+    height: 150px;
+    box-shadow: 15px 25px rgba(255, 255, 0, 0.773);
+}
+
+.azul{
+    margin-left: 600px;
+    background-color: blue;
+    width: 600px;
+    height: 75px;
+    box-shadow: 15px 25px rgba(0, 0, 255, 0.591);
+}
+
+.rojo{
+    margin-left: 600px;
+    background-color: red;
+    width: 600px;
+    height: 75px;
+    box-shadow: 15px 25px rgba(255, 0, 0, 0.736);
+}
